@@ -2,7 +2,7 @@
 
 
 - 🎒 Estudante
-- 📫 Como me achar: Discord (Mateus sem h#6725)
+- 📫 Como me achar: Discord (VOTRON#6605)
 - 😄 Pronomes: Programa/dor
 - ⚡ Fato: Garoto de programa e jogador de LoL
 ##
