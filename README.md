@@ -3,7 +3,7 @@
 ```ts
 class Mateus {
     get idade(){
-        return 16
+        return 17
     }
     get linguagens(){
         return ["Javascript", "Typescript"]
