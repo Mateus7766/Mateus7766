@@ -1,40 +1,14 @@
-<h1 align="center"><b>Olá, eu me chamo Mateus </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-```ts
-class Mateus {
-    get idade(){
-        return 17
-    }
-    get linguagens(){
-        return ["Javascript", "Typescript"]
-    }
-    get hobbies(){
-        return ["Jogar LoL"]
-    }
-    get estudando(){
-        return "Institudo Federal da Paraiba - Tec. em informatica"
-    }
-    get database(){
-        return ["MongoDB"]
-    }
-    get altura(){
-        return 1.72
-    }
-    get pronomes(){
-        return "programa/dor"
-    }
-    get editores(){
-        return ["Visual Studio", "Visual Studio Code", "Bloco de Notas", "Papel (esse é mentira kk)"]
-    }
-}
-```
-<br>
-<hr>
-<br>
+<h1 align="center"><b>Olá, eu me chamo Mateus </b> <img src="https://discords.com/_next/image?url=https%3A%2F%2Fcdn.discordapp.com%2Femojis%2F911989630579134535.gif%3Fv%3D1&w=64&q=75" width="35"></h1>
 
 <div align="center">
+    <img src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="250"/>
+</div>
+
+<br>
+<hr>
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=votron157&show_icons=true&theme=radical&locale=pt-br" width="450"/>
-     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=votron157&show_icons=true&locale=pt-br&layout=compact&theme=radical" width="343"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=votron157&show_icons=true&locale=pt-br&layout=compact&theme=radical" width="343"/>
      
 </div>
 <br>
