@@ -16,5 +16,4 @@
 <div align="center">
     <img src="https://i.imgur.com/iH8Kynm.gif" width="450"/>
 </div>
-
-_Esse arquivo foi criado por Mateus no dia 04/04/2023 as 00:15._
+<img src="https://github.com/VOTRON157/VOTRON157/blob/output/github-contribution-grid-snake.gif"/>
