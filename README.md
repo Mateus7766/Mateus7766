@@ -16,4 +16,5 @@
 <div align="center">
     <img src="https://i.imgur.com/iH8Kynm.gif" width="450"/>
 </div>
-<img src="https://github.com/VOTRON157/VOTRON157/blob/output/github-contribution-grid-snake.gif"/>
+
+![snake](https://github.com/votron157/votron157/blob/output/github-contribution-grid-snake.svg)
