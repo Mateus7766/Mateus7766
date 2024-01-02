@@ -3,7 +3,9 @@
 <div align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjd3R1eWtxMHJxb25uNWl4eWxuMGw0bTh3aDN1ZGQ5bjRwZmdnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ygKTAi5uyy3eBSyRg/giphy.gif" width="250"/>
 </div>
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 <br>
 <hr>
 <div align="center">
