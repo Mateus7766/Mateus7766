@@ -5,6 +5,14 @@
 </div>
 <!--START_SECTION:waka-->
 
+```txt
+Other        48 hrs 57 mins  ███████████████████████▓░   94.25 %
+TypeScript   2 hrs 8 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
+Dart         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+JavaScript   15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+```
+
 <!--END_SECTION:waka-->
 <br>
 <hr>
