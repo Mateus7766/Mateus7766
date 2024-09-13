@@ -23,7 +23,3 @@ EJS                10 hrs 9 mins   ▒░░░░░░░░░░░░░░
 <br>
 <div align="center">
 </div>
-
-Olá, meu nome é Mateus. Gosto de jogar e programar nas horas vagas. Fiz o Ensino Médio no IF, onde também fiz o curso de Técnico em Informática. 💻
-
-Meu perfil no beecrowd: https://judge.beecrowd.com/pt/profile/671197
