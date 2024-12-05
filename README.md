@@ -15,8 +15,8 @@ JavaScript         16 hrs 45 mins  ▓░░░░░░░░░░░░░░
 <br>
 <hr>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=votron157&show_icons=true&theme=radical&locale=pt-br" width="450"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=votron157&show_icons=true&locale=pt-br&layout=compact&theme=radical" width="343"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Mateus7766&show_icons=true&theme=radical&locale=pt-br" width="450"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mateus7766&show_icons=true&locale=pt-br&layout=compact&theme=radical" width="343"/>
      
 </div>
 <br>
