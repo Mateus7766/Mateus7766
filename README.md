@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other              472 hrs 29 mins ████████████████▒░░░░░░░░   65.40 %
+Other              472 hrs 29 mins ████████████████▒░░░░░░░░   65.36 %
 C++                111 hrs 30 mins ████░░░░░░░░░░░░░░░░░░░░░   15.43 %
 TypeScript         52 hrs 42 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
 Dart               30 hrs 16 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-JavaScript         16 hrs 45 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JavaScript         17 hrs 1 min    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
 ```
 
 <!--END_SECTION:waka-->
